@@ -22,7 +22,19 @@
         <header>
             <!-- place navbar here -->
         </header>
-        <main></main>
+        <main>
+            <h1>Bienvenido a la pagina de Cristian</h1>
+            <div class="card">
+                <img class="card-img-top" src="holder.js/100px180/" alt="Title" />
+                <div class="card-body">
+                    <h4 class="card-title">Aplicaciones Web</h4>
+                    <p class="card-text">Grado y grupo: 4 "B"</p>
+                    <p class="card-text">   Autor: Cristian Gabriel Montiel Torres</p>
+                </div>
+            </div>
+
+            
+        </main>
         <footer>
             <!-- place footer here -->
         </footer>
